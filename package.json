@@ -1,6 +1,6 @@
 {
   "name": "cords",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "This is a package containing mathematical tools for moving in a coordination based space.",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,13 @@
     "distance",
     "points"
   ],
-  "author": "Bram van Mensel <vanmensel.bram@gmail.com>",
-  "license": "ISC"
+  "author": {
+    "name": "Bram van Mensel",
+    "email":"vanmensel.bram@gmail.com"
+    },
+  "license": "ISC",
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/BramVM/cords"
+  }
 }
